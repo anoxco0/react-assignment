@@ -1,0 +1,35 @@
+{
+  "countries": [
+    {
+      "id": 1
+    },
+    {
+      "India": "",
+      "id": 2
+    },
+    {
+      "india": "",
+      "id": 3
+    },
+    {
+      "pakistan": "",
+      "id": 4
+    },
+    {
+      "india": "",
+      "id": 5
+    },
+    {
+      "pakistan": "",
+      "id": 6
+    }
+  ],
+  "cities": [
+    {
+      "city": "New Delhi",
+      "population": "12458589",
+      "country": "India",
+      "id": 4
+    }
+  ]
+}
